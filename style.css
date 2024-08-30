@@ -132,15 +132,6 @@ margin-top: 5px;
     font-weight: 300;
 }
 
-.contactInfo.Privacy h6{
-    position: relative;
-    bottom: 0;
-    color: #848c90;
-    text-align:center;
-}
-
-
-
 .container .right_Side
 {
     position: relative;
@@ -208,6 +199,13 @@ font-weight: 500;
 .skills .box h5{
     color: #848c90;
     font-weight: 500;
+}
+
+.Privacy h6{
+    position: relative;
+    bottom: 0;
+    color: #848c90;
+    text-align:center;
 }
 
 
