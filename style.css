@@ -15,8 +15,8 @@ body{
 .container{
     position: relative;
     width: 100%;
-    max-width: 1000px;
-    min-height: 1000px;
+    max-width: 1120px;
+    min-height: 800px;
     background: #ffff;
     margin: 50px auto;
     display: grid;
@@ -127,6 +127,13 @@ margin-top: 5px;
     height: 100%;
     background: #03a9f4;
 }
+
+.Privacy h6{
+    padding-top: 100%;
+    color: #848c90;
+    text-align:center;
+}
+
 .contactInfo.Hobby h4{
     color: #fff;
     font-weight: 300;
@@ -201,12 +208,7 @@ font-weight: 500;
     font-weight: 500;
 }
 
-.Privacy h6{
-    position: relative;
-    bottom: 0;
-    color: #848c90;
-    text-align:center;
-}
+
 
 
 
